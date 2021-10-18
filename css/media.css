@@ -1,0 +1,197 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .c_navmenu li a {      
+        padding: 10px 0;       
+    }
+    .c_navmenu button {       
+        padding: 10px 15px;
+        width: 125px;      
+    }
+     /* banner start */
+     .b-inp {
+        width: 300px;       
+     }
+     .b-inp span {      
+         left: 19%;        
+     }
+     .banner-text {
+         margin-top:80px;
+     }
+ 
+     .banner-text h1 {
+         margin-top: 25px;
+         font-size: 34px;        
+     }
+     .banner-text p {        
+         margin-top: 30px;        
+     }
+     .comon-btn {         
+         padding: 10px 20px;        
+     }
+     .banner-text a:last-child {
+        margin-left:7px;       
+    }
+     /* banner end */
+     /* feature area start */
+     .feature-area{
+         text-align: center;
+     }
+     .feature-text p {
+        padding-right:0 !important;       
+    }
+     /* feature area end */
+     /* smart area start */
+     .smart-area{
+         text-align: center;
+     }
+     .smart-left h1 {
+        line-height: 50px;
+        font-size: 35px;
+       
+    }
+     /* smart area end */
+     /* design start */
+     .design-text{
+         text-align: center;
+     }
+     .comon-title {
+        font-size: 29px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 40px;
+    }
+     /* design end */
+     /* faq start */
+     .faq-accordion {
+        font-size: 16px;
+        font-weight: 700;
+    }
+     /* faq end */
+     /* cta start */
+     .cta-text h1 {
+        font-size: 35px;
+    }
+
+    .cta-simage img {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .ms-3{
+        margin-left: 0 !important;
+    }
+     /* cta end */
+   
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .c_navmenu li a {      
+        padding: 15px 0;       
+    }
+    .c_navmenu button {       
+        padding: 10px 15px;
+        width: 125px;      
+    }
+       /* banner start */
+       .banner-text {
+        margin-top:80px !important;
+    }
+       .b-inp {
+        width: 300px;       
+     }
+     .b-inp span {      
+         left: 19%;        
+     }
+     .banner-text {
+         margin-top: 185px;
+     }
+ 
+     .banner-text h1 {
+         margin-top: 25px;
+         font-size: 35px;        
+     }
+     .banner-text p {
+        
+         margin-top: 30px;
+        
+     }
+     .comon-btn {
+         
+         padding: 10px 20px;
+        
+     }
+     /* banner end */
+     /* feature stat */
+     .single-service {
+        margin: 20px 0;
+    }
+     /* feature end */
+     .smart-left h1 {
+        line-height: 50px;
+     }
+     .cta-text h1 {
+        font-size: 33px;
+        padding-right: 155px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .c_navmenu li a {      
+        padding: 15px 0;       
+    }
+    .c_navmenu button {       
+        padding: 10px 15px;
+        width: 125px;      
+    }
+
+    /* banner start */
+  
+    .b-inp {
+       width: 300px;       
+    }
+    .b-inp span {      
+        left: 19%;        
+    }
+    .banner-text {
+        margin-top: 185px;
+    }
+
+    .banner-text h1 {
+        margin-top: 25px;
+        font-size: 35px;        
+    }
+    .banner-text p {
+       
+        margin-top: 30px;
+       
+    }
+    .comon-btn {
+        
+        padding: 10px 20px;
+       
+    }
+    /* banner end */
+    .smart-left h1 {
+        line-height: 50px;
+        font-size: 33px;        
+    }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+  
+ }
+
+/*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+   
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+   
+ }
